@@ -8,7 +8,7 @@ module.exports = {
     },
     avalanche: {
       url: "https://api.avax-test.network/ext/bc/C/rpc",
-      accounts: ["577ecb18544b1b3e0fca2a6915937e828ef542e59774adf28a5ce7b456f99430"]
+      accounts: [PRIVATE_KEY]
     }
   }
 
